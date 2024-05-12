@@ -18,6 +18,6 @@
  ### Studies on the following technologies
 
 - Python
-- I.A 
+- I.A.
 - Java
 - JavaSpring 
