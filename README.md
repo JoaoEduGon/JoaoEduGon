@@ -1,21 +1,23 @@
-### Hi there 👋
 
-<!-- Cabeçalho --!>
+## Hi there! 👋 My name is João Eduardo Gonçaves 
 
-# 
-##
-###
+### [Acesse meu linkedin](https://www.linkedin.com/in/jo%C3%A3o-eduardo-gon%C3%A7alves/)
 
+### My formation
+-  Electronics technician 
+-  Systems development analysis
 
-- My name is João Eduardo Gonçaves
-Here are some ideas to get you started:
+### My job
+ #### I currently work as an electronics technician 
+- I work with industrial radio control systems in the railway, mining, industrial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### My objective
+- 💻 Improve my skills in the world of software development.
+- 📚 Improving my second language English. 
+ 
+ ### Studies on the following technologies
 
+- Python
+- I.A 
+- Java
+- JavaSpring 
