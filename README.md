@@ -15,5 +15,4 @@
 - 💻 Improve my skills in the world of software development.
 - 📚 Improving my second language English. 
  
- ### Studies on the following technologies
 
